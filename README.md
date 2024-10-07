@@ -4,8 +4,8 @@ This is a fully responsive blog site built using HTML, Bootstrap, and JavaScript
 📝 Features
 Blog Creation: Users can create posts by providing a title and selecting from predefined categories.
 Category Options: Three categories are available:
-1-Technology
-2-Today's News
+1-Technology,
+2-Today's News,
 3-Skills
 
 Edit & Delete Posts: Users can edit or delete their blog posts after creation.
